@@ -20,7 +20,7 @@
 
 <h2> Sobre Mim </h2>
 
-<p>Meu nome é Sophia dos Santos Rosa, tenho 15 anos de idade.<br>
+<p>Meu nome é Sophia Rosa, tenho 15 anos de idade.<br>
 Estou cursando Desenvolvimento Web e pretendo ingressar na faculdade de Direito.<br>
 Gosto de ler livros, fazer as unhas e assistir filmes e séries.</p>😃💗
 
